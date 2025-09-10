@@ -1,24 +1,22 @@
 # PF-Lab03-25K-0549
 
 ## About Me
-Hello! 👋 My name is *Vainkut Kumar* and I am currently a *BSCS student at FAST-NUCES, Karachi*.  
-I am passionate about learning computer science and improving my programming skills every day.
+My name is *Vainkut Kumar*. I am a BSCS student at FAST-NUCES, Karachi (Roll: 25K-0549). This repository is created for PF-Lab03.
 
-## Programming Interests
-- Learning and practicing *C programming* as part of my coursework  
-- Studying *problem solving, algorithms, and data structures*  
-- Exploring *object-oriented programming, databases, and web development*  
-- Applying programming knowledge to *small projects and lab assignments*
+**Hardworking and committed to learning every day.**
 
-## Goals
-- Strengthen my *programming logic* and write cleaner, efficient code  
-- Build a strong foundation for my degree and future software work  
-- Collaborate on projects and learn from peers
+### Programming Interests
+- Learning and practicing C programming
+- Problem solving and algorithms
+- Basics of web development and Git/GitHub
 
----
+### Lab Steps (ordered list)
+1. Create repository under BCS-1E
+2. Add README.md with personal info
+3. Create lab03-branch and add aboutme.md
+4. Create pull request and merge into main
 
-⭐ This repository is created as part of my Programming Fundamentals (PF) Lab03 assignment.
-
-## Contact
-- GitHub: https://github.com/Vainkut-Kumar  
-- Email:  vainkut.kumar@gmail.com
+### Quick notes (unordered list)
+- Commit with clear messages
+- Push all changes to remote
+- Delete branches after successful merge
